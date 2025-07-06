@@ -26,3 +26,8 @@ h2 {
     opacity: 1;
   }
 }
+
+::selection {
+  background: white;
+  color: green; /* change this to control the selected text color */
+}
